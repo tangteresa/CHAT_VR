@@ -14,4 +14,6 @@ Animated falling leaves
 
 Personal role: I served as an "Unreal Engine developer," which involved creating the Unreal environment and landscape, populating it with assets and architectural models, adding animations and user interactions in virtual reality mode, as well as defining the areas that the player may navigate and troubleshooting navigation issues. 
 
+The entire project is too large to upload, so if you are interested in the zipped project, please contact me! 
+
 
