@@ -7,9 +7,13 @@ Storyline: You are a traveler exploring snowy mountains. You stumble across a ma
 
 Notable features: 
 Rotating cage 
+
 Player can stop and start the cage by standing near the giant gold lever (uses trigger box) 
+
 Animated snail 
+
 Climbing to other temples by jumping onto small platforms 
+
 Animated falling leaves 
 
 Personal role: I served as an "Unreal Engine developer," which involved creating the Unreal environment and landscape, populating it with assets and architectural models, adding animations and user interactions in virtual reality mode, as well as defining the areas that the player may navigate and troubleshooting navigation issues. 
